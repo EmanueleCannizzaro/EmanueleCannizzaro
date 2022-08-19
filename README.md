@@ -1,7 +1,6 @@
-Hello I am ### Emanuele Cannizzaro! 👋
+### Emanuele Cannizzaro! 👋
 
-
-I’m a __Father__, an __Aerospace Engineer__ and **Data Analyst**.
+Hello I am a __Father__, an __Aerospace Engineer__ and **Data Analyst**.
 
 Currently working as **Technical Team Leader** at **Airbus SAS** in France in the *A350 Nose and Centre Fuselage Structural Assembly* team.
 
