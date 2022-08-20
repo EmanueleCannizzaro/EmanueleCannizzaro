@@ -1,9 +1,6 @@
-### Emanuele Cannizzaro! 👋
+### Hello 👋
 
-Hello I am an __aerospace engineer__, a __software developer__, a __data analyst__, an __open-source evangelist__, a __business transformer__ and much more...
-
-Currently working as **Technical Team Leader** at **Airbus SAS** in France with the *A350 Nose and Centre Fuselage Structural Assembly* team.
-
+my name is Emanuele Cannizzaro
 
 ---
 
@@ -14,6 +11,11 @@ Currently working as **Technical Team Leader** at **Airbus SAS** in France with 
 - 📚 Business Transformer
 
 ---
+
+I am an __aerospace engineer__, a __software developer__, a __data analyst__, an __open-source evangelist__, a __business transformer__ and much more...
+
+
+Currently working as **Technical Team Leader** at **Airbus SAS** in France with the *A350 Nose and Centre Fuselage Structural Assembly* team.
 
 
 🧰 Toolbox
