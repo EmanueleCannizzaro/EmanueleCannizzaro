@@ -1,41 +1,39 @@
 ### Hello 👋
 
-my name is Emanuele Cannizzaro
-
----
+my name is Emanuele Cannizzaro and I am in no particular order
 
 - 👨‍💻 Aerospace Engineer
 - 💻 Software Developer
 - 🛠 Data Analyst
 - 🌱 Open-source Evangelist
 - 📚 Business Transformer
-
----
-
-I am an __aerospace engineer__, a __software developer__, a __data analyst__, an __open-source evangelist__, a __business transformer__ and much more...
+- and much more...
 
 
 Currently working as **Technical Team Leader** at **Airbus SAS** in France with the *A350 Nose and Centre Fuselage Structural Assembly* team.
 
+---
 
 🧰 Toolbox
 
 ---
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><br />
+---
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/><br />
+---
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO Golang Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" /><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/><br />
+---
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Logo" 
 width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/><br />
+---
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes K8s Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/><br />
+---
 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/>
-
-- 📸 Spare time photographer
-- 🪐 Motobike passionate
 
 You can reach me at 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/emanuelecannizzaro) or at 
@@ -43,6 +41,8 @@ You can reach me at
 
 
 <!--
+- 📸 Spare time photographer
+- 🪐 Motobike passionate
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
