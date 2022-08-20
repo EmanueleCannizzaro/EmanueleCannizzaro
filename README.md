@@ -1,19 +1,17 @@
 ### Emanuele Cannizzaro! 👋
 
-Hello I am a __Father__, an __Aerospace Engineer__, a **Data Analyst** and many more...
+Hello I am an __aerospace engineer__, a __software developer__, a __data analyst__, an __open-source evangelist__, a __business transformer__ and much more...
 
-Currently working as **Technical Team Leader** at **Airbus SAS** in France in the *A350 Nose and Centre Fuselage Structural Assembly* team.
+Currently working as **Technical Team Leader** at **Airbus SAS** in France with the *A350 Nose and Centre Fuselage Structural Assembly* team.
 
 
 ---
 
-- 👨‍💻 Solution Architect
-- 💻 Software Engineer
-- 🛠 Developer Experience 
-- 📚 Avid reader
-- 📸 Spare time photographer
-- 🪐 Motobike passionate
-- 🌱 Nature lover
+- 👨‍💻 Aerospace Engineer
+- 💻 Software Developer
+- 🛠 Data Analyst
+- 🌱 Open-source Evangelist
+- 📚 Business Transformer
 
 ---
 
@@ -34,6 +32,16 @@ width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/de
 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/>
 
+- 📸 Spare time photographer
+- 🪐 Motobike passionate
+
+You can reach me at 
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/emanuelecannizzaro) or at 
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuelecannizzaro).
+
+
+<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -43,12 +51,8 @@ width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/de
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-You can reach me at 
-[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/emanuelecannizzaro) or at 
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuelecannizzaro).
 
 
-<!--
 **EmanueleCannizzaro/EmanueleCannizzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
