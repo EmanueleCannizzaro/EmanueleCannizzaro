@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/EmanueleCannizzaro?style=social&label=Follow) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanueleCannizzaro&show_icons=true) 
+
 ### Hello 👋
 
 my name is Emanuele Cannizzaro and I am in no particular order
