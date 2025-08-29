@@ -1,6 +1,8 @@
-![GitHub followers](https://img.shields.io/github/followers/EmanueleCannizzaro?style=social&label=Follow) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanueleCannizzaro&show_icons=true) 
+[![](https://img.shields.io/github/stars/EmanueleCannizzaro?style=flat&color=black&logo=github&logoColor=white&label=stargazers)](https://github.com/EmanueleCannizzaro)
+[![](https://img.shields.io/github/followers/EmanueleCannizzaro?style=flat&color=purple&label=followers&logo=github)](https://github.com/EmanueleCannizzaro?tab=followers)
+[![](https://img.shields.io/github/sponsors/EmanueleCannizzaro?style=flat&color=blueviolet&logo=github&logoColor=white&label=sponsors)](https://github.com/sponsors/EmanueleCannizzaro)
 
-### Hello 👋
+### :wave: Hello 👋
 
 my name is Emanuele Cannizzaro and I am in no particular order
 
