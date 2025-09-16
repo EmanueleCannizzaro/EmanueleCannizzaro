@@ -2,13 +2,11 @@
 [![](https://img.shields.io/github/followers/EmanueleCannizzaro?style=flat&color=purple&label=followers&logo=github)](https://github.com/EmanueleCannizzaro?tab=followers)
 [![](https://img.shields.io/github/sponsors/EmanueleCannizzaro?style=flat&color=blueviolet&logo=github&logoColor=white&label=sponsors)](https://github.com/sponsors/EmanueleCannizzaro)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EmanueleCannizzaro&show_icons=true&theme=dracula" />
-
 [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=EmanueleCannizzaro)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleCannizzaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EmanueleCannizzaro)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EmanueleCannizzaro&show_icons=true&theme=dracula" />
 
 ### :wave: Hello 👋
 
