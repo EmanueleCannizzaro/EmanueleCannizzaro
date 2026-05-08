@@ -70,30 +70,6 @@ platforms, comparative studies of judicial-auction transparency across
 
 ---
 
-🧰 Toolbox
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>
-</p>
-
-You can reach me at 
-[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/emanuelecannizzaro) or at 
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuelecannizzaro).
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=EmanueleCannizzaro&theme=dracula&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
@@ -101,12 +77,13 @@ You can reach me at
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmanueleCannizzaro&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleCannizzaro&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
   <a href="https://github.com/EmanueleCannizzaro"><img src="https://img.shields.io/github/stars/EmanueleCannizzaro?style=flat&color=black&logo=github&logoColor=white&label=stargazers" alt="Stars" /></a>
   <a href="https://github.com/EmanueleCannizzaro?tab=followers"><img src="https://img.shields.io/github/followers/EmanueleCannizzaro?style=flat&color=purple&label=followers&logo=github" alt="Followers" /></a>
   <a href="https://github.com/sponsors/EmanueleCannizzaro"><img src="https://img.shields.io/github/sponsors/EmanueleCannizzaro?style=flat&color=blueviolet&logo=github&logoColor=white&label=sponsors" alt="Sponsors" /></a>
 </p>
+
+---
+
+You can reach me at 
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/emanuelecannizzaro) or at 
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/emanuelecannizzaro).
